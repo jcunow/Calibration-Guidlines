@@ -11,7 +11,7 @@ You are being a great chap and helping out feels good of course :)  Coauthorship
  
 #### What you need to do:
 <img src= 'https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57' width='1040' height='720'>
-![Slide1](https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57)## SCARLETS Calibration-Guidlines towards 'Quantifying Minirhizotrons' Internal Bias'
+
 
    *Calibrate*
 * Take a ruler, a angle measurements device (although not terribly precise, all modern phones can measure angles), and the calibration protocol to your tubes.
