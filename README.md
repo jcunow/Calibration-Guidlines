@@ -10,7 +10,7 @@ Yes, if you have 1) minirhizotron tubes installed (or planning to do soon), 2) y
 You are being a great chap and helping out feels good of course :)  Coauthorship will be considered given additional contribution which will be announced later on. 
  
 #### What you need to do:
-<img src= 'https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57' width='1040' height='720'>
+<img src= 'https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57' width='3120' height='2160'>
 
 
    *Calibrate*
