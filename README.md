@@ -1,4 +1,4 @@
-![Slide1](https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57)## SCARLETS Calibration-Guidlines towards 'Quantifying Minirhizotrons' Internal Bias'
+
 
 .... 
 
@@ -10,9 +10,8 @@ Yes, if you have 1) minirhizotron tubes installed (or planning to do soon), 2) y
 You are being a great chap and helping out feels good of course :)  Coauthorship will be considered given additional contribution which will be announced later on. 
  
 #### What you need to do:
-<img src= '' width='1040' height='720'>
-![Slide1](https://github.com/user-attachments/assets/c20b97d8-2f9b-4fc2-9f4e-a80fdeeb1fe4)
-
+<img src= 'https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57' width='1040' height='720'>
+![Slide1](https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57)## SCARLETS Calibration-Guidlines towards 'Quantifying Minirhizotrons' Internal Bias'
 
    *Calibrate*
 * Take a ruler, a angle measurements device (although not terribly precise, all modern phones can measure angles), and the calibration protocol to your tubes.
