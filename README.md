@@ -10,7 +10,8 @@ Yes, if you have 1) minirhizotron tubes installed (or planning to do soon), 2) y
 You are being a great chap and helping out feels good of course :)  Coauthorship will be considered given additional contribution which will be announced later on. 
  
 #### What you need to do:
-<img src= 'https://github.com/user-attachments/assets/ec935e9f-71c1-4539-b3f4-09fb1ea5d98f.jpeg' width='1040' height='720'>
+<img src= 'https://github.com/user-attachments/assets/c20b97d8-2f9b-4fc2-9f4e-a80fdeeb1fe4' width='1040' height='720'>
+![Slide1](https://github.com/user-attachments/assets/c20b97d8-2f9b-4fc2-9f4e-a80fdeeb1fe4)
 
 
 
