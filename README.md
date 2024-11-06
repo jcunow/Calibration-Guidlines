@@ -10,6 +10,7 @@ Yes, if you have 1) minirhizotron tubes installed (or planning to do soon), 2) y
 You are being a great chap and helping out feels good of course :)  Coauthorship will be considered given additional contribution which will be announced later on. 
  
 #### What you need to do:
+<img src= '![Example Calibration](https://github.com/user-attachments/assets/e497d787-d1bc-4ff0-9fdc-2e71b81556dc)' width='3500' height='350'>
    *Calibrate*
 * Take a ruler, a angle measurements device (although not terribly precise, all modern phones can measure angles), and the calibration protocol to your tubes.
 * Note down the tube insertion angle, the excess tube extrusion above ground, and the tube diameter for every tube (if they differ). This calibrations are essential.
