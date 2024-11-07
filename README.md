@@ -1,15 +1,19 @@
 
-
+#### The Goal:
+We want to test:
+* does Minirhizotron Methodology affect how roots interact with the Minirhizotron Tube ? 
+ * does tube diameter and tube insertion angle change how roots interact with the 
 .... 
 
 
 #### Can you contribute?
-Yes, if you have 1) minirhizotron tubes installed (or planning to do soon), 2) you have scanned these tubes, and 3) you have access to calibrate your setup in-situ - you are absolutly more than welcome to contribute. After that, you need to do two things: send root scans & complete this data sheet [Link] to the best of your ability. We need some calibration parameter and information about the root scans themselves. Ideally, you also send complementary segmented Images where roots have been identified by manually tracing or automated with AI. 
+Yes, you are absolutly more than welcome to contribute. You only need to calibrate your Minirhizotron Tubes. We are looking for 
+After that, you need to do two things: send root scans & complete this data sheet [Link] to the best of your ability. We need some calibration parameter and information about the root scans themselves. Ideally, you also send complementary segmented Images where roots have been identified by manually tracing or automated with AI. 
 
-Checklist:
-- [x] Active Minirhizotrons OR soon to be installed Minirhizotrons OR alreday calibrated in the past
-- [x] 
-- [x]
+Does my Data Fit:
+- [x] Have active Minirhizotrons *OR* soon to be installed Minirhizotrons *OR* alreday calibrated in the past
+- [x] Can share root scans for reanalysis
+- [ ] Willing to calibrate and gaher meta-data
 
 
 #### What do you get out of it?
