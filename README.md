@@ -1,37 +1,58 @@
 
-#### The Goal:
+#### Why do we need to calibrate our tubes?
 We want to test:
 * does Minirhizotron Methodology affect how roots interact with the Minirhizotron Tube ? 
- * does tube diameter and tube insertion angle change how roots interact with the 
+* does tube diameter and tube insertion angle change how roots interact with the 
 .... 
 
 
-#### Can you contribute?
+#### What do you get out of it?
+You are being a great chap and helping out feels good of course :) 
+
+#### Additionally, can you contribute to the Bias Estimation Project?
 Yes, you are absolutly more than welcome to contribute. You only need to calibrate your Minirhizotron Tubes. We are looking for 
-After that, you need to do two things: send root scans & complete this data sheet [Link] to the best of your ability. We need some calibration parameter and information about the root scans themselves. Ideally, you also send complementary segmented Images where roots have been identified by manually tracing or automated with AI. 
+After that, you need to do two things: send root scans & complete this data sheet [Link] to the best of your ability. We need some calibration parameter and information about the root scans themselves. 
+Ideally, you also send complementary segmented Images where roots have been identified by manually tracing or automated with AI. 
 
 Does my Data Fit:
-- [x] Have active Minirhizotrons *OR* soon to be installed Minirhizotrons *OR* alreday calibrated in the past
-- [x] Can share root scans for reanalysis
-- [ ] Willing to calibrate and gaher meta-data
+- [x] Currently active Minirhizotrons *OR* soon to be installed Minirhizotrons *OR* alreday calibrated in the past
+- [x] Permission to share root scans for reanalysis (consider censoring relevant information e.g., treatments if necessary)
+- [x] Willing to calibrate and compile meta-data
+If all of the above apply, we would be happy to have you on board.
 
 
 #### What do you get out of it?
-You are being a great chap and helping out feels good of course :)  Coauthorship will be considered given additional contribution which will be announced later on. 
+You are being a great chap and helping out feels good of course :) 
+
  
-#### What you need to do:
+#### Calibration items - what you need to do:
 <img src= 'https://github.com/user-attachments/assets/dd22baf2-630b-440a-832e-d09eb0f4cb57' width="100%" height="100%">
 
 
    *Calibrate*
-* Take a ruler, a angle measurements device (although not terribly precise, all modern phones can measure angles), and the calibration protocol to your tubes.
-* Note down the tube insertion angle, the excess tube extrusion above ground, and the tube diameter for every tube (if they differ). This calibrations are essential.
-* We need to know where the scanner started it's rotation in the tube. This allows us to identify which area in the scans represent upward, downward, and sidefacing areas of the tube. Please try to remember 
+  * You need a ruler/tape measure and an angle measurements device (all modern phones can measure angles (typically 1-2° deviation)). 
+    If you are unsure about the specifics, just send me an email.
 
+    *For every tube:*
+  1) Note down the tube insertion angle. Apps are usually called something like "spirit level", "angle meter", "bubble level", or similarly. If you use your phone, your app needs to display both vertical and horizontal tilt.
+      * Importantly, keep other tilt angles at 0°. Please pay attention to which angle you actually measured!    
+      * Tipp: you can use the flat ring surface to obtain the perpendicular angle to the insertion angle. 
+  2) Note down where soil starts in the image.
+      * Often, tape will be used to block incoming light. However, this results in excess tape in the image. Please give it your best estimate.
+      * If your upper most scan is below the soil surface, we want to know how much!
+      * Tipp: if you use fixpoints to slide your scanner up/downwards, you can use the distance from the fixpoint to the soil (measured on the topside of the tube). Knowing your scanner model, we can back calculate how much tape excess you have.
+  4) Note down what the rotational-starting position of the scanner is. It is important to know whether the first row in your scan represent the top or bottom side of the tube. Top, Bottom, or to the Side is a reasonable estimate in most cases (but higher accuracy will improve depth mapping accuracy).
+      
+
+  *For every site (usually):* 
+  1)  Note down the outer tube diameter. A diameter of 5.7 cm (2.25 in)  and 7 cm (2.75 in) is very common.
+
+            
+#### 
   
    *Prepare the Root Scans*
- * The root scan images need to be identifyable with ID/Plot
- * We will handle your images confidentially of course, however, you may rename your images to censor sensitive information if so desired. We recommend a naming scheme like: "Site_ID_Date"
+ * The root scan images need to be identifyable with Site and ID/Plot. 
+ * We will handle your images confidentially of course, however, you may rename your images to censor sensitive information if so desired. We recommend a naming scheme like: "Site_ID"
    
 
 
