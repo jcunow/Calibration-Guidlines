@@ -1,15 +1,12 @@
 
 #### Why do we need to calibrate our tubes?
-We want to test:
-* does Minirhizotron Methodology affect how roots interact with the Minirhizotron Tube ? 
-* does tube diameter and tube insertion angle change how roots interact with the 
-.... 
+1) to unlock the potential of continues root distributions and gain 'true' depth information for any root pixel.  
+2) to account for potential bias. I say potnetial, because it has not been assessed yet. Our goal is to quantify how much bias your tube configuration has. Calibrating your tubes helps the community 
 
 
-#### What do you get out of it?
-You are being a great chap and helping out feels good of course :) 
 
-#### Additionally, can you contribute to the Bias Estimation Project?
+
+#### Can you contribute to the Bias Estimation Project?
 Yes, you are absolutly more than welcome to contribute. You only need to calibrate your Minirhizotron Tubes. We are looking for 
 After that, you need to do two things: send root scans & complete this data sheet [Link] to the best of your ability. We need some calibration parameter and information about the root scans themselves. 
 Ideally, you also send complementary segmented Images where roots have been identified by manually tracing or automated with AI. 
