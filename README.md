@@ -1,13 +1,14 @@
 
 #### Why do we need to calibrate our tubes?
-1) to unlock the potential of continues root distributions and gain 'true' depth information for any root pixel.  
-2) to account for potential bias. I say potnetial, because it has not been assessed yet. Our goal is to quantify how much bias your tube configuration has. Calibrating your tubes helps the community 
-
-
+1) to unlock the true potential of your root images. Calibration enables a world of continues root distributions and gain 'true' depth information for any root pixel.  
+2) to account for potential bias in your measurements. I say potentially, because whether your minirhizotron setup introduces bias has not been formaly assessed. Where is the bias coming from?
+ The creates a barrier for roots they need to circumvent. The tube diameter, together with tube insertion angle chages how the barrier is constructed - and how roots interact with the tube's surface.
+<br>
+<img src= 'https://github.com/user-attachments/assets/f2b81435-e591-4e15-96e4-13d3d77e6475' width="100%" height="100%">
 
 
 #### Can you contribute to the Bias Estimation Project?
-Yes, you are absolutly more than welcome to contribute. You only need to calibrate your Minirhizotron Tubes. We are looking for 
+Yes, you are absolutly more than welcome to contribute.  We are looking for some key information about your setup 
 After that, you need to do two things: send root scans & complete this data sheet [Link] to the best of your ability. We need some calibration parameter and information about the root scans themselves. 
 Ideally, you also send complementary segmented Images where roots have been identified by manually tracing or automated with AI. 
 
@@ -16,10 +17,8 @@ Does my Data Fit:
 - [x] Permission to share root scans for reanalysis (consider censoring relevant information e.g., treatments if necessary)
 - [x] Willing to calibrate and compile meta-data
 If all of the above apply, we would be happy to have you on board.
+<br>
 
-
-#### What do you get out of it?
-You are being a great chap and helping out feels good of course :) 
 
  
 #### Calibration items - what you need to do:
@@ -37,7 +36,7 @@ You are being a great chap and helping out feels good of course :)
   2) Note down where soil starts in the image.
       * Often, tape will be used to block incoming light. However, this results in excess tape in the image. Please give it your best estimate.
       * If your upper most scan is below the soil surface, we want to know how much!
-      * Tipp: if you use fixpoints to slide your scanner up/downwards, you can use the distance from the fixpoint to the soil (measured on the topside of the tube). Knowing your scanner model, we can back calculate how much tape excess you have.
+      * Tipp: if you use fix points to slide your scanner up/downwards, you can use the distance from the fixpoint to the soil (measured on the topside of the tube). Knowing your scanner model, we can back calculate how much tape excess you have.
   4) Note down what the rotational-starting position of the scanner is. It is important to know whether the first row in your scan represent the top or bottom side of the tube. Top, Bottom, or to the Side is a reasonable estimate in most cases (but higher accuracy will improve depth mapping accuracy).
       
 
